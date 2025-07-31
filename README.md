@@ -20,7 +20,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 ## Tools Used
 
-- Excel
+- Microsoft Excel
 
 ## Data Analysis
 
