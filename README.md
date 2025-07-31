@@ -32,7 +32,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 <img width="664" height="432" alt="Attrition vs Current Role" src="https://github.com/user-attachments/assets/93e833a3-8568-458c-85b6-bae1c5b202d6" />
 <img width="664" height="432" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/071fc847-e37f-475f-bfe7-5dec82159037" />
 <img width="664" height="360" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/940d136d-86de-4f31-afa5-636b823bfe49" />
-<img width="1954" height="1091" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/2c8a7aa4-af13-4982-adaf-d0eea355774b" />
-<img width="1955" height="1090" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/4220e0d8-bfe3-4a44-946e-46bd3b2981de" />
-<img width="1954" height="1096" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/9c0966da-1eb1-4690-bc17-cbd4afb00b2d" />
-<img width="1958" height="1101" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/76c99243-a884-4fb4-a2d5-41086f7a9ae2" />
+<img width="652" height="364" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/2c8a7aa4-af13-4982-adaf-d0eea355774b" />
+<img width="652" height="364" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/4220e0d8-bfe3-4a44-946e-46bd3b2981de" />
+<img width="652" height="364" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/9c0966da-1eb1-4690-bc17-cbd4afb00b2d" />
+<img width="652" height="367" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/76c99243-a884-4fb4-a2d5-41086f7a9ae2" />
