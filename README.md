@@ -9,7 +9,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 ## Dataset
 
 - **Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- **Records:** ~1,470 employees
+- **Records:** 1470 employees
 - **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.
 
 ## Objectives
