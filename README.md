@@ -24,6 +24,6 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 # Structure
 
-- .images -> Charts and visualizations exported from Excel
+- figures -> Charts and visualizations exported from Excel
 - .gitignore -> Git ignore rules for temporary/system files
 - README.md -> Project overview and documentation
