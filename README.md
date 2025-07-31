@@ -29,5 +29,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 - figures -> Charts and visualizations exported from Excel
 
 
+
+
 <img width="1464" height="1138" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/41576e46-c18a-4018-bc1b-f6a891a876a1" />
 
