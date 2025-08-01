@@ -24,8 +24,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 ## Data Analysis
 
-
-<img width="488" height="380" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/41576e46-c18a-4018-bc1b-f6a891a876a1" />
+<img width="488" height="380" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/8d54b84b-b9c1-4d52-9a1a-29118edf8315" />
 <img width="664" height="382" alt="Employee Histogram" src="https://github.com/user-attachments/assets/1b5b6df6-1be7-41a0-94fc-4a1fe75dd8e2" />
 <img width="664" height="360" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/8c5dfe7a-9e44-4f3f-8f08-de989b23c7b8" />
 <img width="664" height="432" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/a23039c6-3c8d-46f2-85b3-ae30022b26f1" />
