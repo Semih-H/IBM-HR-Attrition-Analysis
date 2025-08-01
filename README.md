@@ -95,11 +95,13 @@ With an attrition rate of 16%, roughly one in six employees leave the organizati
 
 - ## Impact of Key Factors on Attrition
 
-Some workplace factors, such as working overtime, seem to strongly influence an employee’s decision to leave the company.
+Some workplace factors, such as **working overtime**, seem to strongly influence an employee’s decision to leave the company.
 
 <img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /> 
 
-Employees who work overtime are much more likely to leave, with an attrition rate of 31%. In contrast, those who don’t work overtime have a much lower attrition rate of 10%. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
+<br
+  
+Employees who work overtime are much more likely to leave, with an attrition rate of **31%**. In contrast, those who don’t work overtime have a much lower attrition rate of **10%**. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
 
 <br><br>
 
