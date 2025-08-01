@@ -44,7 +44,9 @@ Career Stability vs. Attrition: A calculated metric, "Average Working Years Per 
 
 
 <img width="532" height="292" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/05597f8c-22cf-4595-bbae-f338b96b1ccf" /> <br>
+
 Job Satisfaction: There is a clear link between job satisfaction and attrition. As job satisfaction increases from "Low" to "Very High," the attrition rate consistently decreases from 23% down to 11%. This shows that satisfied employees are significantly less likely to leave.<br>
+
 <img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" />
 
 <img width="532" height="292" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/f851bb5c-a7b9-4df6-8ce4-a6d798c5c0e6" /> <br>
