@@ -79,7 +79,7 @@ Calculation: This metric was calculated by dividing **Total Working Years** by *
 
 <br>
 
-**Key Metric**: Attrition Rate (%)
+**Key Metric**: **Attrition Rate (%)**
 
 **Calculation**: The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **Number of Yes responses / Total number of responses**.
 
@@ -93,10 +93,10 @@ The standard attrition rate formula is: number of employees who left divided by 
 
 This section is divided into four parts:
 
-1. Overall Attrition Overview
-2. Impact of Key Factors on Attrition
-3. Employee Tenure and Career Stability
-4. Employee Satisfaction and Work Environment
+- Overall Attrition Overview
+- Impact of Key Factors on Attrition
+- Employee Tenure and Career Stability
+- Employee Satisfaction and Work Environment
 
 <br>
 
