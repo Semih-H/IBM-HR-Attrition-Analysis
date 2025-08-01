@@ -1,6 +1,6 @@
 # IBM HR Employee Attrition Analysis Project
-- An **exploratory data analysis** project using the **IBM HR Analytics Employee Attrition & Performance dataset**. <br>
-- Examines key HR metrics and employee characteristics to identify trends related to employee attrition.
+- An **exploratory data analysis** project using the **IBM HR Analytics Employee Attrition & Performance dataset** <br>
+- Examines key HR metrics and employee characteristics to identify trends related to employee attrition
 
 <br>
 
@@ -35,9 +35,9 @@ This case study aims to address the business problem of employee attrition by ac
 
 ## Defining the Business Problem
 
-The primary business problem this project addresses is **employee attrition**. High employee turnover can lead to significant costs, including recruitment expenses, training time for new hires, and a loss of institutional knowledge.
+**Employee attrition** can result in substantial business costs, including recruitment expenses, extended training time for new hires, and the loss of valuable institutional knowledge. This project addresses that core business challenge by analyzing attrition trends within an organization.
 
-The objective of this analysis is to quantify the scale of this problem and uncover the key factors that contribute to it. To achieve this, the project focuses on answering the following critical questions:
+The primary objective is to quantify the extent of employee attrition and identify the key factors driving it. To accomplish this, the analysis is guided by the following critical questions:
 
 - **What is the overall attrition rate?** This establishes a foundational metric to benchmark future improvements against.
 
