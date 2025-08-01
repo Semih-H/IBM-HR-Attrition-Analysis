@@ -4,13 +4,15 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 ## IBM HR Analytics: Descriptive Analysis
 
-This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition. <br>
+This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition.
+<br>
 
 ## Dataset
 
 - **Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Records:** 1470 employees
-- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc. <br>
+- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.
+<br>
 
 ## Objectives
 
@@ -20,7 +22,8 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 ## Tools Used
 
-- Microsoft Excel <br>
+- Microsoft Excel
+<br>
 
 ## Defining the Business Problem
 
@@ -40,34 +43,37 @@ By answering these questions with data, this project provides actionable insight
 
 ## Data Cleaning and Processing
 
-Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities.<br>
+Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities.
+<br>
 
 - **Column Selection and Filtering**
 
 This step involved identifying and removing columns from the raw dataset that were not relevant to the analysis of employee attrition. Removing unused columns makes the dataset easier to work with and helps keep the focus on the variables that matter for solving the business problem.
 
 Columns that are placeholders, such as Employee Count, Over 18, and Standard Hours, were removed from the dataset because they didn’t offer meaningful insights into the factors affecting attrition.
-
+<br>
 
 - **Handling Missing Values and Data Validation**
   
 No missing values were detected in the dataset. Excel's filter tool was used to verify this. The data was also checked for any misspellings. All numerical and categorical columns were confirmed to have the appropriate data types. Additionally, the dataset was examined for any leading or trailing whitespaces.
+<br>
 
 - **Feature Engineering and Key Metric Calculation**
 
-New Feature: Average Working Years per Company
+**New Feature:** Average Working Years per Company
 
 Calculation: This metric was calculated by dividing Total Working Years by Number of Companies Worked. However, some records showed a value of 0 for Number of Companies Worked. This likely means the employee has only ever worked at their current company, and the field reflects the number of previous companies. To avoid division by zero, we replaced the 0 with 1 in these specific cases, assuming their entire work experience is with this one company, so the metric becomes Total Working Years ÷ 1.
 
-Rationale: This feature provides a more nuanced understanding of an employee's career stability, indicating their average tenure per employer.
+**Rationale**: This feature provides a more nuanced understanding of an employee's career stability, indicating their average tenure per employer.
+<br>
 
-Key Metric: Attrition Rate (%)
+**Key Metric**: Attrition Rate (%)
 
-Calculation: The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: (Number of Yes responses) / (Total number of responses).
+**Calculation**: The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: (Number of Yes responses) / (Total number of responses).
 
 The standard attrition rate formula is: number of employees who left divided by the average number of employees. However, for the IBM HR Analytics dataset, which is usually a static snapshot that includes employees who left during a specific period, the simplified formula is commonly used and generally acceptable. This is because the total dataset size serves as the baseline for measuring attrition.
 
-Rationale: This metric allows for a direct comparison of attrition likelihood across different employee segments.
+**Rationale**: This metric allows for a direct comparison of attrition likelihood across different employee segments.
 
 <br>
 
