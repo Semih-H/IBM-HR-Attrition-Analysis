@@ -189,21 +189,21 @@ There is a clear negative relationship between job involvement and attrition. Em
 
 The company has an overall attrition rate of 16%. The analysis reveals that attrition is strongly influenced by a few key factors:
 
-**Tenure and Stability**: Newer employees and those with a history of "job hopping" are significantly more likely to attrite.
-
-**Satisfaction and Engagement**: Low ratings for job involvement, job satisfaction, and work-life balance are all directly linked to higher attrition rates.
-
-**Overtime**: Employees who work overtime are more than three times as likely to leave the company, making this a critical factor in turnover.
+  **Tenure and Stability**: Newer employees and those with a history of "job hopping" are significantly more likely to attrite.
+  
+  **Satisfaction and Engagement**: Low ratings for job involvement, job satisfaction, and work-life balance are all directly linked to higher attrition rates.
+  
+  **Overtime**: Employees who work overtime are more than three times as likely to leave the company, making this a critical factor in turnover.
 
 ### Recommendations
 
-**Focus on Early Retention**: Implement programs to support and engage new hires, as this is the highest-risk group for attrition.
+- **Focus on Early Retention**: Implement programs to support and engage new hires, as this is the highest-risk group for attrition.
 
-**Address Overtime**: Review and adjust company policies on overtime to reduce burnout and its associated high turnover.
+- **Address Overtime**: Review and adjust company policies on overtime to reduce burnout and its associated high turnover.
 
-**Boost Satisfaction**: Invest in initiatives to improve job involvement and satisfaction, as these are strong deterrents to attrition.
+- **Boost Satisfaction**: Invest in initiatives to improve job involvement and satisfaction, as these are strong deterrents to attrition.
 
-**Promote Work-Life Balance**: Actively support a healthy work-life balance to reduce attrition among a highly vulnerable segment of employees.
+- **Promote Work-Life Balance**: Actively support a healthy work-life balance to reduce attrition among a highly vulnerable segment of employees.
 
 
 
