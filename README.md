@@ -6,7 +6,7 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 ## Dataset
 
-- **Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- **Source:** [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Format:** CSV
 - **Records:** 1470 employees
 - **Fields:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.
