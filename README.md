@@ -28,7 +28,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 ## Data Analysis and Visualization
 
-- ## Attrition Overview <br>
+- ## Attrition Overview
 
 <img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
 <img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /> <b>
