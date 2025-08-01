@@ -74,18 +74,28 @@ Rationale: This metric allows for a direct comparison of attrition likelihood ac
 
 This section is divided into three main parts:
 
-1. Overview of Attrition
-2. Employee Tenure and Career Stability
-3. Employee Satisfaction
+1. Overall Attrition Overview
+2. Impact of Key Factors on Attrition
+3. Employee Tenure and Career Stability
+4. Employee Satisfaction and Work Environment
 
 - ## Attrition Overview
+
+The overall attrition rate offers a basic insight into employee turnover within the company. 
 
 <br>
 
 <img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
+
+With an attrition rate of 16%, roughly one in six employees leave the organization. This underscores the importance of identifying and addressing the key factors driving turnover.
+
 <img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /> 
 
 <br><br>
+
+- ## Impact of Key Factors on Attrition
+
+
 
 - ## Employee Tenure and Career Stability
 
@@ -108,7 +118,7 @@ Career Stability vs. Attrition: A calculated metric, "Average Working Years Per 
 
 <br><br>
 
-- ## Employee Satisfaction
+- ## Employee Satisfaction and Work Environment
 
 <br>
 
