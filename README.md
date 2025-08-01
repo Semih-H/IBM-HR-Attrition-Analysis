@@ -72,6 +72,12 @@ Rationale: This metric allows for a direct comparison of attrition likelihood ac
 
 ## Data Analysis and Visualization
 
+This section is divided into three main parts:
+
+1. Overview of Attrition
+2. Employee Tenure and Career Stability
+3. Employee Satisfaction
+
 - ## Attrition Overview
 
 <br>
