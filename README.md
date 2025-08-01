@@ -30,7 +30,7 @@ The primary business problem this project addresses is **employee attrition**. H
 
 The objective of this analysis is to quantify the scale of this problem and uncover the key factors that contribute to it. To achieve this, the project focuses on answering the following critical questions:
 
-**- What is the overall attrition rate?** This establishes a foundational metric to benchmark future improvements against.
+- **What is the overall attrition rate?** This establishes a foundational metric to benchmark future improvements against.
 
 **- What are the key characteristics of employees who leave?** This analysis identifies high-risk employee segments based on factors like tenure, career history, and satisfaction levels.
 
