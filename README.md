@@ -65,8 +65,6 @@ Columns that are placeholders, such as Employee Count, Over 18, and Standard Hou
   
 No missing values were detected in the dataset. Excel's filter tool was used to verify this. The data was also checked for any misspellings. All numerical and categorical columns were confirmed to have the appropriate data types. Additionally, the dataset was examined for any leading or trailing whitespaces.
 
-<br>
-
 ### Calculated Field and Key Metric Calculation
 <br>
 
