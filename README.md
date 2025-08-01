@@ -149,10 +149,11 @@ Employees who attrit tend to have significantly shorter overall tenures at the c
 
 <img width="532" height="346" alt="Attrition vs Current Role" src="https://github.com/user-attachments/assets/cbd18b40-ed4a-461b-b2a9-dad2b12075a1" /> <br>
 
-Tenure in Current Role vs. Attrition: The same pattern holds true for time in a specific role. Employees who attrited had a shorter median time in their current role (2 years) compared to those who stayed (3 years). <br>
+Tenure in Current Role vs. Attrition: The same pattern holds true for time in a specific role. Employees who attrited had a shorter median time in their current role (2 years) compared to those who stayed (3 years). 
+
+<br>
 
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
-
 
 Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition.
 
