@@ -1,5 +1,5 @@
 # IBM HR Employee Attrition Analysis Project
-An **Exploratory Data Analysis** project using the **IBM HR Employee Attrition dataset**. 
+An **exploratory data analysis** project using the **IBM HR Employee Attrition dataset**. <br>
 Examines key HR metrics and employee characteristics to identify trends related to employee attrition.
 
 <br>
@@ -23,9 +23,9 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 This case study aims to address the business problem of employee attrition by achieving the following objectives:
 
-**Quantify the Attrition Problem**: To calculate the overall attrition rate and establish a benchmark for the company.
+**Quantify the Attrition Problem**: To calculate the **overall attrition rate** and establish a benchmark for the company.
 
-**Identify Attrition Drivers**: To use exploratory data analysis and visualization to identify key factors and employee segments most susceptible to attrition. This includes examining the impact of tenure, career stability, job satisfaction, and work-life balance.
+**Identify Attrition Drivers**: To use exploratory data analysis and visualization to identify key factors and employee segments most susceptible to attrition. This includes examining the impact of **tenure**, **career stability**, **job satisfaction**, and **work-life balance**.
 
 **Generate Actionable Insights**: To synthesize the findings into a clear and concise summary that explains why employees are leaving and what trends are most influential.
 
