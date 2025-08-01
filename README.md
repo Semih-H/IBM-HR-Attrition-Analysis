@@ -39,7 +39,7 @@ This case study aims to address the business problem of employee attrition by ac
 
 The primary objective is to quantify the extent of employee attrition and identify the key factors driving it. To accomplish this, the analysis is guided by the following critical questions:
 
-- **What is the overall attrition rate?** This establishes a foundational metric to benchmark future improvements against.
+- **What is the overall attrition rate?** This provides a foundational metric against which future improvements can be benchmarked.
 
 - **What are the key characteristics of employees who leave?** This analysis identifies high-risk employee segments based on factors like tenure, career history, and satisfaction levels.
 
