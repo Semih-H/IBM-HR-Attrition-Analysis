@@ -20,7 +20,7 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 ## Objectives
 
-This project aims to address the business problem of employee attrition by achieving the following objectives:
+This case study aims to address the business problem of employee attrition by achieving the following objectives:
 
 **Quantify the Attrition Problem**: To calculate the overall attrition rate and establish a benchmark for the company.
 
@@ -189,7 +189,7 @@ There is a clear negative relationship between job involvement and attrition. Em
 
 The company has an overall attrition rate of 16%. The analysis reveals that attrition is strongly influenced by a few key factors:
 
-- **Tenure and Stability**: Newer employees and those with a history of "job hopping" are significantly more likely to attrite.
+- **Tenure and Stability**: Newer employees and those with a history of "job hopping" are significantly more likely to attrit.
 - **Satisfaction and Engagement**: Low ratings for job involvement, job satisfaction, and work-life balance are all directly linked to higher attrition rates.
 - **Overtime**: Employees who work overtime are more than three times as likely to leave the company, making this a critical factor in turnover.
 
