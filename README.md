@@ -70,7 +70,7 @@ No missing values were detected in the dataset. Excel's filter tool was used to 
 
 - **Feature Engineering and Key Metric Calculation**
 
--  **New Feature:** Average Working Years per Company
+**New Feature:** Average Working Years per Company
 
 Calculation: This metric was calculated by dividing Total Working Years by Number of Companies Worked. However, some records showed a value of 0 for Number of Companies Worked. This likely means the employee has only ever worked at their current company, and the field reflects the number of previous companies. To avoid division by zero, we replaced the 0 with 1 in these specific cases, assuming their entire work experience is with this one company, so the metric becomes Total Working Years ÷ 1.
 
@@ -97,6 +97,8 @@ This section is divided into three main parts:
 3. Employee Tenure and Career Stability
 4. Employee Satisfaction and Work Environment
 
+<br>
+
 - ## Attrition Overview
 
 The overall attrition rate offers a basic insight into employee turnover within the company. 
@@ -120,11 +122,7 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
   
 Employees who work overtime are much more likely to leave, with an attrition rate of **31%**. In contrast, those who don’t work overtime have a much lower attrition rate of **10%**. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
 
-<br><br>
-
-
-
-
+<br>
 
 - ## Employee Tenure and Career Stability
 
@@ -145,7 +143,7 @@ Tenure in Current Role vs. Attrition: The same pattern holds true for time in a 
 
 Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition.
 
-<br><br>
+<br>
 
 - ## Employee Satisfaction and Work Environment
 
@@ -153,8 +151,9 @@ Career Stability vs. Attrition: A calculated metric, "Average Working Years Per 
 
 <img width="532" height="292" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/05597f8c-22cf-4595-bbae-f338b96b1ccf" /> <br>
 
-Job Satisfaction: There is a clear link between job satisfaction and attrition. As job satisfaction increases from "Low" to "Very High," the attrition rate consistently decreases from 23% down to 11%. This shows that satisfied employees are significantly less likely to leave.<br>
+Job Satisfaction: There is a clear link between job satisfaction and attrition. As job satisfaction increases from "Low" to "Very High," the attrition rate consistently decreases from 23% down to 11%. This shows that satisfied employees are significantly less likely to leave.
 
+<br>
 
 <img width="532" height="292" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/f851bb5c-a7b9-4df6-8ce4-a6d798c5c0e6" /> <br>
 
@@ -164,7 +163,9 @@ Work-Life Balance: Poor work-life balance is a major driver of attrition. The at
 
 <img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /> <br>
 
-Environment Satisfaction: Similar to other satisfaction metrics, a poor work environment is a major risk. Employees with a "Low" rating have an attrition rate of 25%. The rate drops sharply to 15% for moderate satisfaction and continues to decrease slightly to 13% for very high satisfaction. This highlights that while a pleasant environment helps, a very negative one is particularly detrimental to retention. <br>
+Environment Satisfaction: Similar to other satisfaction metrics, a poor work environment is a major risk. Employees with a "Low" rating have an attrition rate of 25%. The rate drops sharply to 15% for moderate satisfaction and continues to decrease slightly to 13% for very high satisfaction. This highlights that while a pleasant environment helps, a very negative one is particularly detrimental to retention. 
+
+<br>
 
 <img width="532" height="292" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/16666875-c3c1-4a40-b886-193e8706ee07" /> <br>
 
