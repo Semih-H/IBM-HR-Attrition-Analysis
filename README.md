@@ -41,7 +41,9 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 Tenure in Current Role vs. Attrition: The same pattern holds true for time in a specific role. Employees who attrited had a shorter median time in their current role (2 years) compared to those who stayed (3 years). <br>
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
 
-Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition. <br>
+Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition. 
+
+<br>
 
 
 <img width="532" height="292" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/05597f8c-22cf-4595-bbae-f338b96b1ccf" /> <br>
