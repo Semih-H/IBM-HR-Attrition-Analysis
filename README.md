@@ -90,7 +90,7 @@ The standard attrition rate formula is: number of employees who left divided by 
 
 ## Data Analysis and Visualization
 
-This section is divided into three main parts:
+This section is divided into four main parts:
 
 1. Overall Attrition Overview
 2. Impact of Key Factors on Attrition
