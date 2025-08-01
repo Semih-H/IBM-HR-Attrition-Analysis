@@ -71,7 +71,7 @@ No missing values were detected in the dataset. Excel's filter tool was used to 
 
 - **Calculated Field and Key Metric Calculation**
 
-    ### New Field:** **Average Working Years per Company
+    **New Field:** **Average Working Years per Company**
     
     **Calculation**: This metric was calculated by dividing **Total Working Years** by **Number of Companies Worked**. However, some records showed a value of 0 for Number of Companies Worked. This likely means the employee has only ever worked at their current company, and the field reflects the number of previous companies. To avoid division by zero, we replaced the 0 with 1 in these specific cases, assuming their entire work experience is with this one company, so the metric becomes **Total Working Years ÷ 1**.
     
