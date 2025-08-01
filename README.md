@@ -22,6 +22,8 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 - Visualize distributions and relationships (e.g., attrition vs. job satisfaction, overtime)
 - Highlight interesting trends using plots and statistical summaries<br>
 
+<br>
+
 ## Tools Used
 
 - Microsoft Excel
