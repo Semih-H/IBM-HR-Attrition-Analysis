@@ -82,7 +82,7 @@ This metric was calculated by dividing **Total Working Years** by **Number of Co
   
 The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **Number of Yes responses / Total number of responses**.
   
-The standard attrition rate formula is: number of employees who left divided by the average number of employees. However, for the IBM HR Analytics dataset, which is usually a static snapshot that includes employees who left during a specific period, the simplified formula is commonly used and generally acceptable. This is because the total dataset size serves as the baseline for measuring attrition.
+The standard attrition rate formula is calculated by the number of employees who left divided by the average number of employees. However, for the IBM HR Analytics dataset, which is usually a static snapshot that includes employees who left during a specific period, the simplified formula is commonly used and generally acceptable. This is because the total dataset size serves as the baseline for measuring attrition.
 
 **Basis**: This metric allows for a direct comparison of attrition likelihood across different employee segments.
 
