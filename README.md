@@ -79,7 +79,7 @@ Calculation: This metric was calculated by dividing **Total Working Years** by *
 
 <br>
 
-**Key Metric**: **Attrition Rate (%)**
+**Key Metric**: **Attrition Rate** **(%)**
 
 **Calculation**: The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **Number of Yes responses / Total number of responses**.
 
