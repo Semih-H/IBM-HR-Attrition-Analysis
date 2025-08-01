@@ -1,5 +1,5 @@
 # IBM HR Employee Attrition Analysis Project
-An **exploratory data analysis** project using the **IBM HR Employee Attrition dataset**. <br>
+An **exploratory data analysis** project using the **IBM HR Analytics Employee Attrition & Performance dataset**. <br>
 Examines key HR metrics and employee characteristics to identify trends related to employee attrition.
 
 <br>
