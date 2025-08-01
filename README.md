@@ -22,7 +22,12 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 - Microsoft Excel
 
-## Data Analysis
+## Defining Business Problem
+
+## Data Cleaning
+
+## Data Analysis and Visualization
+
 
 <img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/8d54b84b-b9c1-4d52-9a1a-29118edf8315" />
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/1b5b6df6-1be7-41a0-94fc-4a1fe75dd8e2" />
