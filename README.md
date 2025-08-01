@@ -22,7 +22,22 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 - Microsoft Excel
 
-## Defining Business Problem
+## Defining the Business Problem
+
+<br>
+
+The primary business problem this project addresses is **employee attrition**. High employee turnover can lead to significant costs, including recruitment expenses, training time for new hires, and a loss of institutional knowledge.
+
+The objective of this analysis is to quantify the scale of this problem and uncover the key factors that contribute to it. To achieve this, the project focuses on answering the following critical questions:
+
+**- What is the overall attrition rate?** This establishes a foundational metric to benchmark future improvements against.
+
+**- What are the key characteristics of employees who leave?** This analysis identifies high-risk employee segments based on factors like tenure, career history, and satisfaction levels.
+
+**- What are the potential root causes of attrition?** The project investigates the relationship between attrition and key employee satisfaction metrics, such as **Job Satisfaction**, **Work-Life Balance**, and **Work Environment**, as well as other factors like **overtime**.
+
+By answering these questions with data, this project provides actionable insights that can be used to develop targeted strategies for improving employee retention.
+
 
 ## Data Cleaning
 
