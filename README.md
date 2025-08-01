@@ -130,7 +130,7 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
 
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/ecfb78e3-2a3d-47d1-8d0c-27fc4ee2c8c3" /> <br>
 
-The distribution of Years at the Company is heavily skewed toward shorter tenures, with most employees having been with the company for **less than 8 years**. This visual shows that while some employees have very long careers, the majority of the workforce consists of those with shorter stays.
+The distribution of **Years at the Company** is heavily skewed toward shorter tenures, with most employees having been with the company for **less than 8 years**. This visual shows that while some employees have very long careers, the majority of the workforce consists of those with shorter stays.
 
 <br>
 
