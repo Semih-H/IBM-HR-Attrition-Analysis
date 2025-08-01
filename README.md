@@ -130,9 +130,20 @@ Employees who work overtime are much more likely to leave, with an attrition rat
 
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/ecfb78e3-2a3d-47d1-8d0c-27fc4ee2c8c3" /> <br>
 
+The distribution of Years at the Company is heavily skewed toward shorter tenures, with most employees having been with the company for less than 8 years. This visual shows that while some employees have very long careers, the majority of the workforce consists of those with shorter stays.
+
+<br>
+
 <img width="532" height="308" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/725adc74-546f-4a0b-b188-cd263d8be19d" /><br>
 
+
+<br>
+
 <img width="532" height="346" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/3508510b-60ea-4b79-8042-20137f558558" /> <br>
+
+Employees who attrit tend to have significantly shorter overall tenures at the company. The median tenure for attrited employees is 2 years, compared to 3 years for those who remain. This indicates that a substantial portion of turnover occurs early in an employee's journey with the company.
+
+<br>
 
 <img width="532" height="346" alt="Attrition vs Current Role" src="https://github.com/user-attachments/assets/cbd18b40-ed4a-461b-b2a9-dad2b12075a1" /> <br>
 
