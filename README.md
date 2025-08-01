@@ -90,7 +90,6 @@ The overall attrition rate offers a basic insight into employee turnover within 
 With an attrition rate of 16%, roughly one in six employees leave the organization. This underscores the importance of identifying and addressing the key factors driving turnover.<br>
 
 <br>
-<br>
 
 - ## Impact of Key Factors on Attrition
 
