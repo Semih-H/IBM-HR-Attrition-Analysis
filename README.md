@@ -37,7 +37,9 @@ The objective of this analysis is to quantify the scale of this problem and unco
 - **What are the potential root causes of attrition?** The project investigates the relationship between attrition and key employee satisfaction metrics, such as **Job Satisfaction**, **Work-Life Balance**, and **Work Environment**, as well as other factors like **overtime**.
 
 By answering these questions with data, this project provides actionable insights that can be used to develop targeted strategies for improving employee retention.
+
 <br>
+
 ## Data Cleaning and Processing
 
 Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities. 
