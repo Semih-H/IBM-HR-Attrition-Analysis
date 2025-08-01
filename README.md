@@ -30,12 +30,16 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 - ## Attrition Overview
 
+<br>
+
 <img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
-<img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /> <b>
+<img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /> 
 
----
+<br><br>
 
-- ## Employee Tenure and Career Stability <br>
+- ## Employee Tenure and Career Stability
+
+<br>
 
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/ecfb78e3-2a3d-47d1-8d0c-27fc4ee2c8c3" /> <br>
 
@@ -50,11 +54,13 @@ Tenure in Current Role vs. Attrition: The same pattern holds true for time in a 
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
 
 
-Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition.<br>
+Career Stability vs. Attrition: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is 2.1 years, while it's 5.0 years for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition.
 
----
+<br><br>
 
-- ## Employee Satisfaction <br>
+- ## Employee Satisfaction
+
+<br>
 
 <img width="532" height="292" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/05597f8c-22cf-4595-bbae-f338b96b1ccf" /> <br>
 
