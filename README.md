@@ -4,29 +4,23 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 ## IBM HR Analytics: Descriptive Analysis
 
-This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition.
-<br>
+This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition.<br>
 
 ## Dataset
 
 - **Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Records:** 1470 employees
-- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.
-<br>
+- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.<br>
 
 ## Objectives
 
 - Explore and summarize key features of the dataset
 - Visualize distributions and relationships (e.g., attrition vs. job satisfaction, overtime)
-- Highlight interesting trends using plots and statistical summaries
-
-<br>
+- Highlight interesting trends using plots and statistical summaries<br>
 
 ## Tools Used
 
-- Microsoft Excel
-
-<br>
+- Microsoft Excel<br>
 
 ## Defining the Business Problem
 
@@ -46,7 +40,7 @@ By answering these questions with data, this project provides actionable insight
 
 ## Data Cleaning and Processing
 
-Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities. 
+Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities.<br>
 
 - **Column Selection and Filtering**
 
