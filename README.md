@@ -169,4 +169,5 @@ Environment Satisfaction: Similar to other satisfaction metrics, a poor work env
 
 <img width="532" height="292" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/16666875-c3c1-4a40-b886-193e8706ee07" /> <br>
 
+There is a clear negative relationship between job involvement and attrition. Employees with low job involvement (Level 1) have a high attrition rate of 34%. As job involvement increases, the attrition rate drops steadily, reaching just 9% for those with very high involvement (Level 4). This highlights how important employee engagement is for improving retention.
 
