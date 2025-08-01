@@ -39,7 +39,36 @@ The objective of this analysis is to quantify the scale of this problem and unco
 By answering these questions with data, this project provides actionable insights that can be used to develop targeted strategies for improving employee retention.
 
 
-## Data Cleaning
+## Data Cleaning and Processing
+
+Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities. 
+
+- **Column Selection and Filtering**
+
+This step involved identifying and removing columns from the raw dataset that were not relevant to the analysis of employee attrition. Removing unused columns makes the dataset easier to work with and helps keep the focus on the variables that matter for solving the business problem.
+
+Columns that are placeholders, such as Employee Count, Over 18, and Standard Hours, were removed from the dataset because they didn’t offer meaningful insights into the factors affecting attrition.
+
+
+- **Handling Missing Values and Data Validation**
+  
+No missing values were detected in the dataset. Excel's filter tool was used to verify this. The data was also checked for any misspellings. All numerical and categorical columns were confirmed to have the appropriate data types. Additionally, the dataset was examined for any leading or trailing whitespaces.
+
+- **Feature Engineering and Key Metric Calculation**
+
+New Feature: Average Working Years per Company
+
+Calculation: This metric was calculated by dividing Total Working Years by Number of Companies Worked. However, some records showed a value of 0 for Number of Companies Worked. This likely means the employee has only ever worked at their current company, and the field reflects the number of previous companies. To avoid division by zero, we replaced the 0 with 1 in these specific cases, assuming their entire work experience is with this one company, so the metric becomes Total Working Years ÷ 1.
+
+Rationale: This feature provides a more nuanced understanding of an employee's career stability, indicating their average tenure per employer.
+
+Key Metric: Attrition Rate (%)
+
+Calculation: The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: (Number of Yes responses) / (Total number of responses).
+
+The standard attrition rate formula is: number of employees who left divided by the average number of employees. However, for the IBM HR Analytics dataset, which is usually a static snapshot that includes employees who left during a specific period, the simplified formula is commonly used and generally acceptable. This is because the total dataset size serves as the baseline for measuring attrition.
+
+Rationale: This metric allows for a direct comparison of attrition likelihood across different employee segments.
 
 ## Data Analysis and Visualization
 
