@@ -154,7 +154,7 @@ Employees who attrit tend to have significantly shorter overall tenures at the c
 
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
 
-**Career Stability vs. Attrition**: A calculated metric, "Average Working Years Per Company," reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is **2.1 years**, while it's **5 years** for those who did not attrit. This indicates that a history of "job hopping" is associated with a higher risk of attrition.
+**Career Stability vs. Attrition**: A calculated metric, **Average Working Years Per Company**, reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is **2.1 years**, while it's **5 years** for those who did not attrit. This indicates that a history of **"job hopping"** is associated with a higher risk of attrition.
 
 <br>
 
@@ -182,7 +182,7 @@ Employees who attrit tend to have significantly shorter overall tenures at the c
 
 <img width="532" height="292" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/16666875-c3c1-4a40-b886-193e8706ee07" /> <br>
 
-There is a clear negative relationship between **job involvement** and **attrition**. Employees with low job involvement (Level 1) have a high attrition rate of **34%**. As job involvement increases, the attrition rate drops steadily, reaching just **9%** for those with very high involvement (Level 4). This highlights how important employee engagement is for improving retention.
+**Job involvement**: There is a clear negative relationship between job involvement and attrition. Employees with low job involvement (Level 1) have a high attrition rate of **34%**. As job involvement increases, the attrition rate drops steadily, reaching just **9%** for those with very high involvement (Level 4). This highlights how important employee engagement is for improving retention.
 
 <br>
 
