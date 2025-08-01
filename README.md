@@ -43,7 +43,7 @@ The primary objective is to quantify the extent of employee attrition and identi
 
 - **What are the key characteristics of employees who leave?** This analysis identifies high-risk employee segments based on factors like tenure, career history, and satisfaction levels.
 
-- **What are the potential root causes of attrition?** The project investigates the relationship between attrition and key employee satisfaction metrics, such as **Job Satisfaction**, **Work-Life Balance**, and **Work Environment**, as well as other factors like **overtime**.
+- **What are the potential root causes of attrition?** The project investigates the relationship between attrition and key employee satisfaction metrics, such as **Job Satisfaction**, **Work-Life Balance**, and **Work Environment**, as well as other factors like **Overtime**.
 
 By answering these questions with data, this project provides actionable insights that can be used to develop targeted strategies for improving employee retention.
 
