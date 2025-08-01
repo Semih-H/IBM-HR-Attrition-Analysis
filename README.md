@@ -25,8 +25,8 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 ## Data Analysis
 
 <img width="488" height="380" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/8d54b84b-b9c1-4d52-9a1a-29118edf8315" />
-<img width="664" height="382" alt="Employee Histogram" src="https://github.com/user-attachments/assets/1b5b6df6-1be7-41a0-94fc-4a1fe75dd8e2" />
-<img width="664" height="360" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/8c5dfe7a-9e44-4f3f-8f08-de989b23c7b8" />
+<img width="443" height="256" alt="Employee Histogram" src="https://github.com/user-attachments/assets/1b5b6df6-1be7-41a0-94fc-4a1fe75dd8e2" />
+<img width="443" height="256" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/8c5dfe7a-9e44-4f3f-8f08-de989b23c7b8" />
 <img width="664" height="432" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/a23039c6-3c8d-46f2-85b3-ae30022b26f1" />
 <img width="664" height="432" alt="Attrition vs Current Role" src="https://github.com/user-attachments/assets/93e833a3-8568-458c-85b6-bae1c5b202d6" />
 <img width="664" height="432" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/071fc847-e37f-475f-bfe7-5dec82159037" />
