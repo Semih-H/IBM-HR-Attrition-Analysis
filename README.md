@@ -4,13 +4,13 @@ Examines key HR metrics and employee characteristics to identify trends related 
 
 ## IBM HR Analytics: Descriptive Analysis
 
-This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition.<br>
+This project presents a descriptive analysis of the IBM HR Analytics Employee Attrition & Performance dataset. The goal is to explore key patterns, trends, and relationships within the data that may contribute to employee attrition. <br>
 
 ## Dataset
 
 - **Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Records:** 1470 employees
-- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.<br>
+- **Features:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc. <br>
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 ## Tools Used
 
-- Microsoft Excel<br>
+- Microsoft Excel <br>
 
 ## Defining the Business Problem
 
