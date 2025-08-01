@@ -59,7 +59,6 @@ This step involved identifying and removing columns from the raw dataset that we
 
 Columns that are placeholders, such as Employee Count, Over 18, and Standard Hours, were removed from the dataset because they didn’t offer meaningful insights into the factors affecting attrition.
 
-<br>
 
 ### Handling Missing Values and Data Validation
   
