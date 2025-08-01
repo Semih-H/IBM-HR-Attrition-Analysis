@@ -99,7 +99,7 @@ This section is divided into four parts:
 
 <br>
 
-- ## Attrition Overview
+- ### Attrition Overview
 
 The overall attrition rate offers a basic insight into employee turnover within the company. 
 
@@ -111,7 +111,7 @@ With an attrition rate of 16%, roughly one in six employees leave the organizati
 
 <br>
 
-- ## Impact of Key Factors on Attrition
+- ### Impact of Key Factors on Attrition
 
 Some workplace factors, such as **working overtime**, seem to strongly influence an employee’s decision to leave the company.
 
@@ -124,7 +124,7 @@ Employees who work overtime are much more likely to leave, with an attrition rat
 
 <br>
 
-- ## Employee Tenure and Career Stability
+- ### Employee Tenure and Career Stability
 
 <br>
 
@@ -145,7 +145,7 @@ Career Stability vs. Attrition: A calculated metric, "Average Working Years Per 
 
 <br>
 
-- ## Employee Satisfaction and Work Environment
+- ### Employee Satisfaction and Work Environment
 
 <br>
 
