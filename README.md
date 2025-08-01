@@ -54,7 +54,7 @@ By answering these questions with data, this project provides actionable insight
 
 <br>
 
-## Data Cleaning and Processing
+## Data Cleaning
 
 Although this dataset is claimed to be complete and free of inconsistencies, it was still examined for potential errors and irregularities.
 
