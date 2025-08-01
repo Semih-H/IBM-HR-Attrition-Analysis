@@ -55,7 +55,7 @@ Although this dataset is claimed to be complete and free of inconsistencies, it 
 
 <br>
 
-- **Column Selection and Filtering**
+### Column Selection and Filtering
 
 This step involved identifying and removing columns from the raw dataset that were not relevant to the analysis of employee attrition. Removing unused columns makes the dataset easier to work with and helps keep the focus on the variables that matter for solving the business problem.
 
