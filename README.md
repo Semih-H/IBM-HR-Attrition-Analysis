@@ -18,17 +18,23 @@ This project presents a descriptive analysis of the IBM HR Analytics Employee At
 
 <br>
 
-## Objectives
-
-- Explore and summarize key features of the dataset
-- Visualize distributions and relationships (e.g., attrition vs. job satisfaction, overtime)
-- Highlight interesting trends using plots and statistical summaries<br>
-
-<br>
-
 ## Tools Used
 
 - Microsoft Excel
+
+<br>
+
+## Objectives
+
+This project aims to address the business problem of employee attrition by achieving the following objectives:
+
+**Quantify the Attrition Problem**: To calculate the overall attrition rate and establish a benchmark for the company.
+
+**Identify Attrition Drivers**: To use exploratory data analysis and visualization to identify key factors and employee segments most susceptible to attrition. This includes examining the impact of tenure, career stability, job satisfaction, and work-life balance.
+
+**Generate Actionable Insights**: To synthesize the findings into a clear and concise summary that explains why employees are leaving and what trends are most influential.
+
+**Provide Data-Driven Recommendations**: To conclude the analysis with specific, actionable recommendations designed to help the company mitigate attrition and improve employee retention.
 
 <br>
 
