@@ -59,10 +59,13 @@ This step involved identifying and removing columns from the raw dataset that we
 
 Columns that are placeholders, such as Employee Count, Over 18, and Standard Hours, were removed from the dataset because they didn’t offer meaningful insights into the factors affecting attrition.
 
+<br>
 
 ### Handling Missing Values and Data Validation
   
 No missing values were detected in the dataset. Excel's filter tool was used to verify this. The data was also checked for any misspellings. All numerical and categorical columns were confirmed to have the appropriate data types. Additionally, the dataset was examined for any leading or trailing whitespaces.
+
+<br>
 
 ### Calculated Field and Key Metric Calculation
 <br>
