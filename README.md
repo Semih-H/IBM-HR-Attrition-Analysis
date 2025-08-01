@@ -136,6 +136,7 @@ The distribution of Years at the Company is heavily skewed toward shorter tenure
 
 <img width="532" height="308" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/725adc74-546f-4a0b-b188-cd263d8be19d" /><br>
 
+This figure shows a steep decline in attrition as tenure increases, supporting the insights from the box plots. Attrition is highest at 30% among the newest employees with 0–2 years at the company. It drops to 14% for those with 3–5 years of service and continues to fall to just 6% for employees with 18–20 years at the company. This analysis highlights that the first few years are the most critical for improving employee retention.
 
 <br>
 
