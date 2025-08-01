@@ -52,7 +52,10 @@ Job Satisfaction: There is a clear link between job satisfaction and attrition. 
 
 <img width="532" height="292" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/f851bb5c-a7b9-4df6-8ce4-a6d798c5c0e6" /> <br>
 
-Work-Life Balance: Poor work-life balance is a major driver of attrition. The attrition rate for employees with a "Bad" rating is 31%. While better ratings generally decrease attrition, the lowest rate (14%) is observed for a "Good" rating (Level 3), and it slightly rises to 18% for the "Best" rating (Level 4). This suggests that a poor work-life balance is a major red flag, but a perfect balance isn't necessarily the single key to retention. <br>
+Work-Life Balance: Poor work-life balance is a major driver of attrition. The attrition rate for employees with a "Bad" rating is 31%. While better ratings generally decrease attrition, the lowest rate (14%) is observed for a "Good" rating (Level 3), and it slightly rises to 18% for the "Best" rating (Level 4). This suggests that a poor work-life balance is a major red flag, but a perfect balance isn't necessarily the single key to retention. 
+
+<br>
+
 <img width="532" height="292" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/16666875-c3c1-4a40-b886-193e8706ee07" /> <br>
 
 <img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /> <br>
