@@ -142,7 +142,7 @@ This figure shows a steep decline in attrition as tenure increases, supporting t
 
 <img width="532" height="346" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/3508510b-60ea-4b79-8042-20137f558558" /> <br>
 
-Employees who attrit tend to have significantly shorter overall tenures at the company. The median tenure for attrited employees is **2 years**, compared to **3 years** for those who remain. This indicates that a substantial portion of turnover occurs early in an employee's journey with the company.
+Employees who attrite tend to have significantly shorter overall tenures at the company. The median tenure for attrited employees is **2 years**, compared to **3 years** for those who remain. This indicates that a substantial portion of turnover occurs early in an employee's journey with the company.
 
 <br>
 
@@ -154,7 +154,7 @@ Employees who attrit tend to have significantly shorter overall tenures at the c
 
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
 
-**Career Stability vs. Attrition**: A calculated metric, **Average Working Years Per Company**, reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is **2.1 years**, while it's **5 years** for those who did not attrit. This indicates that a history of **"job hopping"** is associated with a higher risk of attrition.
+**Career Stability vs. Attrition**: A calculated metric, **Average Working Years Per Company**, reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is **2.1 years**, while it's **5 years** for those who did not attrite. This indicates that a history of **"job hopping"** is associated with a higher risk of attrition.
 
 <br>
 
