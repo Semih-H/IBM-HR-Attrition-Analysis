@@ -204,6 +204,9 @@ The company has an overall attrition rate of 16%. The analysis reveals that attr
 - **Promote Work-Life Balance**: Actively support a healthy work-life balance to reduce attrition among a highly vulnerable segment of employees.
 
 
+## Dashboard
+
+<img width="3828" height="1910" alt="HR Dashboard" src="https://github.com/user-attachments/assets/96569129-1f16-4016-8345-11aded470f0f" />
 
 
 
