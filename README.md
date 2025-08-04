@@ -207,7 +207,10 @@ The company has an overall attrition rate of 16%. The analysis reveals that attr
 
 ## Dashboard
 
-<img width="3862" height="1908" alt="HR Dashboard2" src="https://github.com/user-attachments/assets/39bb6413-98b6-4c3a-8b90-a608cf0bb4f4" />
+
+<img width="3870" height="1976" alt="HR Dashboard3" src="https://github.com/user-attachments/assets/e9197b64-472a-4b70-95fb-78bf81f824b3" />
+
+
 
 
 
