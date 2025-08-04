@@ -203,10 +203,13 @@ The company has an overall attrition rate of 16%. The analysis reveals that attr
 - **Boost Satisfaction**: Invest in initiatives to improve job involvement and satisfaction, as these are strong deterrents to attrition.
 - **Promote Work-Life Balance**: Actively support a healthy work-life balance to reduce attrition among a highly vulnerable segment of employees.
 
+<br>
 
 ## Dashboard
 
-<img width="3828" height="1910" alt="HR Dashboard" src="https://github.com/user-attachments/assets/96569129-1f16-4016-8345-11aded470f0f" />
+<img width="3862" height="1908" alt="HR Dashboard2" src="https://github.com/user-attachments/assets/39bb6413-98b6-4c3a-8b90-a608cf0bb4f4" />
+
+
 
 
 
