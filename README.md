@@ -221,5 +221,3 @@ The company has an overall attrition rate of 16%. The analysis reveals that attr
 
 
 
-
-
