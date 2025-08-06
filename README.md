@@ -149,7 +149,8 @@ With an attrition rate of **16%**, roughly one in six employees leave the organi
 
 <br>
 
-<img width="350" height="260" alt="image" src="https://github.com/user-attachments/assets/57946532-8643-4ded-9599-b91424c904c5" />
+<img width="400" height="260" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/3f0a706d-f245-49fe-a34a-aaa7da1d3121" />
+
 <img width="350" height="260" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/3508510b-60ea-4b79-8042-20137f558558" /> <br>
 
 <br>
