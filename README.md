@@ -19,31 +19,18 @@
 
 <br>
 
-## Objectives
-
-This case study aims to address the business problem of employee attrition by achieving the following objectives:
-
-**Quantify the Attrition Problem**: To calculate the **overall attrition rate** and establish a benchmark for the company.
-
-**Identify Attrition Drivers**: To use exploratory data analysis and visualization to identify key factors and employee segments most susceptible to attrition. This includes examining the impact of **tenure**, **career stability**, **job satisfaction**, and **work-life balance**.
-
-**Generate Actionable Insights**: To synthesize the findings into a clear and concise summary that explains why employees are leaving and what trends are most influential.
-
-**Provide Data-Driven Recommendations**: To conclude the analysis with specific, actionable recommendations designed to help the company mitigate attrition and improve employee retention.
-
-<br>
 
 ## Defining the Business Problem
 
 **Employee attrition** can result in substantial business costs, including recruitment expenses, extended training time for new hires, and the loss of valuable institutional knowledge. This project addresses that core business challenge by analyzing attrition trends within an organization.
 
-The primary objective is to quantify the extent of employee attrition and identify the key factors driving it. To accomplish this, the analysis is guided by the following critical questions:
+The primary objective is to quantify the extent of employee attrition and identify the key factors driving it. To accomplish this, the analysis is guided by the following questions:
 
-- **What is the overall attrition rate?** This provides a foundational metric against which future improvements can be benchmarked.
+- **What is the overall attrition rate?** This creates a baseline metric for measuring future improvements.
 
-- **What are the key characteristics of employees who leave?** This analysis identifies high-risk employee segments based on factors like tenure, career history, and satisfaction levels.
+- **What are the key characteristics of employees who leave?** This analysis highlights employee groups at high risk of leaving, based on tenure, career background, and job satisfaction.
 
-- **What are the potential root causes of attrition?** The project investigates the relationship between attrition and key employee satisfaction metrics, such as **Job Satisfaction**, **Work-Life Balance**, and **Work Environment**, as well as other factors like **Overtime**.
+- **What are the potential root causes of attrition?** The project looks at how attrition relates to important employee satisfaction factors like **Job Satisfaction, Work-Life Balance, Work Environment**, and also considers **Overtime**.
 
 By answering these questions with data, this project provides actionable insights that can be used to develop targeted strategies for improving employee retention.
 
@@ -177,21 +164,21 @@ The first few years are the most critical for improving employee retention. This
 
 The company’s overall employee turnover rate is 16%. After looking closely at the data, we found that people tend to leave the company for a few main reasons:
 
-- **How Long They’ve Been at the Company and Their Work History**: Employees who are new to the company or have switched jobs often in the past are much more likely to leave. This shows that people who haven’t stayed long in jobs before may be at higher risk of leaving again.
+- **Tenure and Work History**: Employees who are new to the company or have switched jobs often in the past are much more likely to leave. This shows that people who haven’t stayed long in jobs before may be at higher risk of leaving again.
 
 - **How They Feel About Their Work**: People who gave low scores for job satisfaction, how involved they feel in their work, or how well they can balance work with personal life were more likely to quit. This means that when employees aren’t happy or don’t feel connected to their job, they’re more likely to leave.
 
-- **Working Too Many Hours**: Employees who regularly work overtime are more than three times more likely to quit than those who don’t. This shows that working long hours is a major reason people decide to leave, and it’s something the company should look into carefully.
+- **Working Overtime**: Employees who regularly work overtime are more than three times more likely to quit than those who don’t. This shows that working long hours is a major reason people decide to leave, and it’s something the company should look into carefully.
 
 ### Recommendations
 
-- **Pay Special Attention to New Employees**: Create programs that help new workers feel welcome, supported, and part of the team. People who are new to the company are the most likely to leave, so it’s important to make sure they have a positive beginning.
+- **Pay special attention to new employees**: Create programs that help new workers feel welcome, supported, and part of the team. People who are new to the company are the most likely to leave, so it’s important to make sure they have a positive beginning.
 
-- **Take a close look at Overtime**: Go over the rules and practices around working extra hours. Working too much can lead to stress and feeling worn out, which makes people more likely to quit. Making changes here can help people feel better and stay longer.
+- **Take a close look at overtime**: Go over the rules and practices around working extra hours. Working too much can lead to stress and feeling worn out, which makes people more likely to quit. Making changes here can help people feel better and stay longer.
 
-- **Make the Job More Enjoyable**: Spend time and money on ways to help employees enjoy their work and feel more connected to what they do. When people feel good about their jobs, they’re less likely to leave.
+- **Make the job more enjoyable**: Spend time and money on ways to help employees enjoy their work and feel more connected to what they do. When people feel good about their jobs, they’re less likely to leave.
 
-- **Help People Balance Work and Life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling stretched thin.
+- **Help people balance work and life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling stretched thin.
 
 <br>
 
