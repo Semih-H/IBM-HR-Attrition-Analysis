@@ -1,4 +1,4 @@
-# IBM HR Employee Attrition Analysis
+<img width="1328" height="3025" alt="image" src="https://github.com/user-attachments/assets/db869129-2f7f-458a-a02f-4c99e42c6182" /># IBM HR Employee Attrition Analysis
 - An **exploratory data analysis** project using the **IBM HR Analytics Employee Attrition & Performance dataset** <br>
 - Examines key HR metrics and employee characteristics to identify trends linked to why employees attrite
 
