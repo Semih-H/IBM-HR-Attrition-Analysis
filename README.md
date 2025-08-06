@@ -188,7 +188,7 @@ The company’s overall employee attrition rate is **16%**. After looking closel
 
 ## Dashboard
 
-(Dashboard Excel File)[]
+(Dashboard Excel File)[https://github.com/Semih-H/IBM-HR-Attrition-Analysis/blob/48f84f40b98e611ca228e4696fbd3d72aa1f7cf6/IBM%20HR%20DATASET.xlsx]
 
 <img width="3854" height="1963" alt="HR Dashboard8" src="https://github.com/user-attachments/assets/f76f232f-7e41-4407-b40e-ca95b23f3458" />
 
