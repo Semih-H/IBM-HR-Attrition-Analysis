@@ -1,6 +1,6 @@
 # IBM HR Employee Attrition Analysis
 - An **exploratory data analysis** project using the **IBM HR Analytics Employee Attrition & Performance dataset** <br>
-- Examines key HR metrics and employee characteristics to identify trends related to employee attrition
+- Examines key HR metrics and employee characteristics to identify trends linked to why employees attrite
 
 <br>
 
@@ -90,41 +90,25 @@ The standard attrition rate formula is calculated by the number of employees who
 
 ## Data Analysis and Visualization
 
-This section is divided into four parts:
+This section is divided into three parts:
 
 - Overall Attrition Overview
-- Impact of Key Factors on Attrition
 - Employee Tenure and Career Stability
 - Employee Satisfaction and Work Environment
 
 <br>
 
-- ### Attrition Overview
-
-The overall attrition rate offers a basic insight into employee turnover within the company. 
+### Attrition Overview
 
 <br>
 
 <img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
 
-With an attrition rate of **16%**, roughly one in six employees leave the organization. This underscores the importance of identifying and addressing the key factors driving turnover.<br>
+With an attrition rate of **16%**, roughly one in six employees leave the organization. This underlines the importance of identifying and addressing the key factors driving attrition.<br>
 
 <br>
 
-- ### Impact of Key Factors on Attrition
-
-Some workplace factors, such as **working overtime**, seem to strongly influence an employee’s decision to leave the company.
-
-<br>
-
-<img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /><br>
-
-  
-**Overtime**: Employees who work overtime are much more likely to leave, with an attrition rate of **31%**. In contrast, those who don’t work overtime have a much lower attrition rate of **10%**. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
-
-<br>
-
-- ### Employee Tenure and Career Stability
+### Employee Tenure and Career Stability
 
 <br>
 
@@ -141,7 +125,7 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
 
 <br>
 
-**Years at the Company**: The first few years are the most critical for improving employee retention. This figure shows a steep decline in attrition as working years at the company increase. Attrition is **highest at** **30%** among the newest employees with **0–2 years** at the company. It drops to **14%** for those with **3–5 years** of service and continues to fall to just **6%** for employees with **18–20** years at the company. 
+The first few years are the most critical for improving employee retention. This figure shows a steep decline in attrition as working years at the company increase. Attrition is **highest at** **30%** among the newest employees with **0–2 years** at the company. It drops to **14%** for those with **3–5 years** of service and continues to fall to just **6%** for employees with **18–20** years at the company. 
 
 **The box plot** supports the insights from the bar chart. The employees who have been with the company longer are more likely to stay. For those who left, the typical stay was only **3 years**. For those who stayed, it was **6 years**. This suggests that newer employees are at a higher risk of leaving.
 
@@ -153,7 +137,7 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
 
 <br>
 
-- ### Employee Satisfaction and Work Environment
+### Employee Satisfaction and Work Environment
 
 <br>
 
@@ -169,7 +153,13 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
 
 <br>
 
+<img width="532" height="292" alt="Attrition vs Overtime" src="https://github.com/user-attachments/assets/bc5c5785-413e-40da-a4d5-ca83d2acb67a" /><br>
+
+**Overtime**: Employees who work overtime are much more likely to leave, with an attrition rate of **31%**. In contrast, those who don’t work overtime have a much lower attrition rate of **10%**. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
+
+<br>
 <img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /> <br>
+
 
 **Satisfaction with the Work Environment**: A bad work environment makes people much more likely to leave. Employees who rate it as “Low” have a **25%** attrition rate. This drops to **15%** for moderate satisfaction and **13%** for very high satisfaction. While a great environment helps, avoiding a negative one is especially important for keeping employees.
 
