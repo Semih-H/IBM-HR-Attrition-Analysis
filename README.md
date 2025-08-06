@@ -130,31 +130,26 @@ Some workplace factors, such as **working overtime**, seem to strongly influence
 
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/ecfb78e3-2a3d-47d1-8d0c-27fc4ee2c8c3" /> <br>
 
-The distribution of **Years at the Company** is heavily skewed toward shorter tenures, with most employees having been with the company for **less than 8 years**. This visual shows that while some employees have very long careers, the majority of the workforce consists of those with shorter stays.
+
+**Employee Tenure**: he distribution of **years at the company** is heavily skewed toward shorter tenures. Most employees don’t stay very long. Around **600** have worked at the company for **0–4 years**. That number drops to **400** for **4–8 years**, **200** for **8–12 years**, and fewer than **100** for each group after that, up to **36–40 years**. This shows that short stays are much more common than long ones.
+
 
 <br>
 
-<img width="532" height="308" alt="Attrition vs Number of Years" src="https://github.com/user-attachments/assets/725adc74-546f-4a0b-b188-cd263d8be19d" /><br>
-
-This figure shows a steep decline in attrition as tenure increases, supporting the insights from the box plots. Attrition is **highest at** **30%** among the newest employees with 0–2 years at the company. It drops to **14%** for those with 3–5 years of service and continues to fall to just **6%** for employees with 18–20 years at the company. This analysis highlights that the first few years are the most critical for improving employee retention.
-
-<br>
-
-<img width="532" height="346" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/3508510b-60ea-4b79-8042-20137f558558" /> <br>
-
-Employees who attrite tend to have significantly shorter overall tenures at the company. The median tenure for attrited employees is **2 years**, compared to **3 years** for those who remain. This indicates that a substantial portion of turnover occurs early in an employee's journey with the company.
+<img width="475" height="300" alt="image" src="https://github.com/user-attachments/assets/57946532-8643-4ded-9599-b91424c904c5" />
+<img width="400" height="300" alt="Attrition vs Number of Years (Plot)" src="https://github.com/user-attachments/assets/3508510b-60ea-4b79-8042-20137f558558" /> <br>
 
 <br>
 
-<img width="532" height="346" alt="Attrition vs Current Role" src="https://github.com/user-attachments/assets/cbd18b40-ed4a-461b-b2a9-dad2b12075a1" /> <br>
+**Years at the Company**: The first few years are the most critical for improving employee retention. This figure shows a steep decline in attrition as working years at the company increase. Attrition is **highest at** **30%** among the newest employees with **0–2 years** at the company. It drops to **14%** for those with **3–5 years** of service and continues to fall to just **6%** for employees with **18–20** years at the company. 
 
-**Tenure in Current Role vs. Attrition**: The same pattern holds for time in a specific role. Employees who attrited had a shorter median time in their current role (**2 years**) compared to those who stayed (**3 years**). 
+**The box plot** supports the insights from the bar chart. The employees who have been with the company longer are more likely to stay. For those who left, the typical stay was only **3 years**. For those who stayed, it was **6 years**. This suggests that newer employees are at a higher risk of leaving.
 
 <br>
 
 <img width="532" height="346" alt="Attrition vs Avg Working Years" src="https://github.com/user-attachments/assets/213d2578-8cc3-4fe4-bf7b-2e916be2471e" /> <br>
 
-**Career Stability vs. Attrition**: A calculated metric, **Average Working Years Per Company**, reveals that employees with a history of longer stays at previous companies are more likely to stay. The median for attrited employees is **2.1 years**, while it's **5 years** for those who did not attrite. This indicates that a history of **"job hopping"** is associated with a higher risk of attrition.
+**Career Stability and Attrition**: A calculated field, **Average Working Years Per Company**, shows that employees who stayed longer at their previous jobs are more likely to stay with the company now. For people who **left**, the typical stay at previous jobs was only **2.1 years**. For those who **stayed**, it was **5 years**. This suggests that employees with a pattern of job hopping are at a higher risk of leaving.
 
 <br>
 
@@ -164,37 +159,39 @@ Employees who attrite tend to have significantly shorter overall tenures at the 
 
 <img width="532" height="292" alt="Attrition vs Job Satisfaction" src="https://github.com/user-attachments/assets/05597f8c-22cf-4595-bbae-f338b96b1ccf" /> <br>
 
-**Job Satisfaction**: There is a clear link between job satisfaction and attrition. As job satisfaction increases from "Low" to "Very High," the attrition rate consistently decreases from **23%** down to **11%**. This shows that satisfied employees are significantly less likely to leave.
+**Job Satisfaction**: Employees who are happier with their jobs are much less likely to leave. When job satisfaction is rated as “Low,” the attrition rate is **23%**. As satisfaction improves to “Very High,” the rate drops to just **11%**. This clearly shows that keeping employees satisfied plays a big role in reducing attrition.
 
 <br>
 
 <img width="532" height="292" alt="Attrition vs Work Life Balance" src="https://github.com/user-attachments/assets/f851bb5c-a7b9-4df6-8ce4-a6d798c5c0e6" /> <br>
 
-**Work-Life Balance**: Poor work-life balance is a major driver of attrition. The attrition rate for employees with a "Bad" rating is **31%**. While better ratings generally decrease attrition, the lowest rate (**14%**) is observed for a "Good" rating (Level 3), and it slightly rises to **18%** for the "Best" rating (Level 4). This suggests that a poor work-life balance is a major red flag, but a perfect balance isn't necessarily the single key to retention. 
+**Work-Life Balance**: When employees feel they don’t have a good balance between work and personal life, they’re much more likely to leave. Those with a “**Bad**” rating have a high attrition rate of **31%**. Attrition drops to its lowest point, **14%** at the “**Good**” level (Level 3), but then rises slightly to **18%** at the “**Best**” level (Level 4). This shows that while poor balance is a clear risk, having a perfect balance isn’t the only thing that keeps people from leaving.
 
 <br>
 
 <img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /> <br>
 
-**Environment Satisfaction**: Similar to other satisfaction metrics, a poor work environment is a major risk. Employees with a "Low" rating have an attrition rate of **25%**. The rate drops sharply to **15%** for moderate satisfaction and continues to decrease slightly to **13%** for very high satisfaction. This highlights that while a pleasant environment helps, a very negative one is particularly detrimental to retention. 
+**Satisfaction with the Work Environment**: A bad work environment makes people much more likely to leave. Employees who rate it as “Low” have a **25%** attrition rate. This drops to **15%** for moderate satisfaction and **13%** for very high satisfaction. While a great environment helps, avoiding a negative one is especially important for keeping employees.
 
 <br>
 
 <img width="532" height="292" alt="Attrition vs Job Involvement" src="https://github.com/user-attachments/assets/16666875-c3c1-4a40-b886-193e8706ee07" /> <br>
 
-**Job involvement**: There is a clear negative relationship between job involvement and attrition. Employees with low job involvement (Level 1) have a high attrition rate of **34%**. As job involvement increases, the attrition rate drops steadily, reaching just **9%** for those with very high involvement (Level 4). This highlights how important employee engagement is for improving retention.
+**Job Involvement**: There’s a clear pattern showing that employees who don’t feel very involved in their work are much more likely to leave the company. For example, people with the lowest level of job involvement (Level 1) have a high attrition rate of **34%**. But as employees feel more connected and involved in their work, fewer of them leave. At the highest level of involvement (Level 4), the attrition rate drops to just **9%**. This shows that helping employees feel more engaged in their jobs can make a big difference in keeping them with the company.
 
 <br>
 
 ## Conclusion and Recommendations
 
-### Summary of Findings
+### Summary
 
-The company has an overall attrition rate of 16%. The analysis reveals that attrition is strongly influenced by a few key factors:
+The company’s overall employee turnover rate is 16%. After looking closely at the data, we found that people tend to leave the company for a few main reasons:
 
-- **Tenure and Stability**: Newer employees and those with a history of "job hopping" are significantly more likely to attrit.
-- **Satisfaction and Engagement**: Low ratings for job involvement, job satisfaction, and work-life balance are all directly linked to higher attrition rates.
-- **Overtime**: Employees who work overtime are more than three times as likely to leave the company, making this a critical factor in turnover.
+- **How Long They’ve Been at the Company and Their Work History**: Employees who are new to the company or have switched jobs often in the past are much more likely to leave. This shows that people who haven’t stayed long in jobs before may be at higher risk of leaving again.
+
+- **How They Feel About Their Work**: People who gave low scores for job satisfaction, how involved they feel in their work, or how well they can balance work with personal life were more likely to quit. This means that when employees aren’t happy or don’t feel connected to their job, they’re more likely to leave.
+
+- **Working Too Many Hours**: Employees who regularly work overtime are more than three times more likely to quit than those who don’t. This shows that working long hours is a major reason people decide to leave, and it’s something the company should look into carefully.
 
 ### Recommendations
 
