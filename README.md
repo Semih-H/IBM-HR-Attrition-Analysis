@@ -9,7 +9,45 @@
 - **Source:** [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Format:** CSV
 - **Records:** 1470 employees
-- **Fields:** Attrition, Job Involvement, Job Role, Job Satisfaction, Number of Companies Worked, Over Time, Work Life Balance, Years At Company, Years In Current Role, etc.
+- **Fields Breakdown:** <br>
+
+| Column Name | Description | Unit / Type
+|----------------------------|------------------------------------------------------|-----------------------------|
+| Age | Employee’s age | Years
+| Attrition | Whether the employee left the company | Yes / No
+| BusinessTravel | Frequency of business travel | Categorical (e.g. Travel_Rarely, Travel_Frequently)
+| DailyRate | Base daily income | Currency (e.g. USD/day)
+| Department | Department where the employee works | Categorical (e.g. Sales, R&D, HR)
+| DistanceFromHome | Distance from home to work | Kilometers (or Miles)
+| Education | Education level | Integer (1 = Below College, 5 = Doctor)
+| EducationField | Field of education | Categorical (e.g. Life Sciences, Technical Degree)
+| EmployeeCount | Always 1 (placeholder field) | Integer
+| EmployeeNumber | Unique ID for each employee | Integer
+| EnvironmentSatisfaction| Satisfaction with work environment | Scale (1 = Low, 4 = Very High)
+| Gender | Gender of employee | Male / Female
+| HourlyRate | Hourly wage | Currency (e.g. USD/hour)
+| JobInvolvement | Level of involvement in job | Scale (1 = Low, 4 = Very High)
+| JobLevel | Job seniority level | Integer (1 = Entry, 5 = Executive)
+| JobRole | Job title or role | Categorical (e.g. Sales Executive)
+| JobSatisfaction | Satisfaction with the job | Scale (1 = Low, 4 = Very High)
+| MaritalStatus | Marital status of employee | Categorical (Single, Married, Divorced)
+| MonthlyIncome | Monthly salary | Currency (e.g. USD/month)
+| MonthlyRate | Monthly base pay rate | Currency
+| NumCompaniesWorked | Number of companies the employee has worked for | Integer
+| Over18 | Always "Y" (placeholder field) | Character
+| OverTime | Whether the employee works overtime | Yes / No
+| PercentSalaryHike | Percentage increase in salary from previous year | Percentage (%)
+| PerformanceRating | Performance rating by manager | Scale (1 = Low, 4 = Outstanding)
+| RelationshipSatisfaction| Satisfaction with coworkers/manager | Scale (1 = Low, 4 = Very High)
+| StandardHours | Hours per week (fixed for all) | Always 80
+| StockOptionLevel | Stock option benefit level | Integer (0–3)
+| TotalWorkingYears | Total career experience | Years
+| TrainingTimesLastYear | Number of training sessions attended last year | Integer
+| WorkLifeBalance | Work-life balance rating | Scale (1 = Bad, 4 = Best)
+| YearsAtCompany | Number of years at this company | Years
+| YearsInCurrentRole | Years in current role | Years
+| YearsSinceLastPromotion| Time since last promotion | Years
+| YearsWithCurrManager | Years working under current manager | Years
 
 <br>
 
@@ -18,7 +56,7 @@
 - Microsoft Excel
 <br>
 
-## Defining the Business Problem
+## Defining Business Problem
 
 **Employee attrition** can result in substantial business costs, including recruitment expenses, extended training time for new hires, and the loss of valuable institutional knowledge. This project addresses that core business challenge by analyzing attrition trends within an organization.
 
