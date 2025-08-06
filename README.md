@@ -83,13 +83,13 @@ The standard attrition rate is calculated by dividing the number of employees wh
 
 This section is divided into three parts:
 
-- Overall Attrition Overview
-- Employee Tenure and Career Stability
-- Employee Satisfaction and Work Environment
+1) Overall Attrition Overview
+2) Employee Tenure and Career Stability
+3) Employee Satisfaction and Work Environment
 
 <br>
 
-### Attrition Overview
+### 1) Attrition Overview
 
 <br>
 
@@ -99,7 +99,7 @@ With an attrition rate of **16%**, roughly one in six employees leave the organi
 
 <br>
 
-### Employee Tenure and Career Stability
+### 2) Employee Tenure and Career Stability
 
 <br>
 
@@ -128,7 +128,7 @@ The first few years are the most critical for improving employee retention. This
 
 <br>
 
-### Employee Satisfaction and Work Environment
+### 3) Employee Satisfaction and Work Environment
 
 <br>
 
@@ -167,7 +167,7 @@ The first few years are the most critical for improving employee retention. This
 
 ### Summary
 
-The company’s overall employee turnover rate is 16%. After looking closely at the data, we found that people tend to leave the company for a few main reasons:
+The company’s overall employee attrition rate is **16%**. After looking closely at the data, we found that people tend to leave the company for a few main reasons:
 
 - **Tenure and Work History**: Employees who are new to the company or have switched jobs often in the past are much more likely to leave. This shows that people who haven’t stayed long in jobs before may be at higher risk of leaving again.
 
@@ -183,7 +183,7 @@ The company’s overall employee turnover rate is 16%. After looking closely at 
 
 - **Make the job more enjoyable**: Spend time and money on ways to help employees enjoy their work and feel more connected to what they do. When people feel good about their jobs, they’re less likely to leave.
 
-- **Help people balance work and life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling stretched thin.
+- **Help people balance work and life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling overwhelmed.
 <br>
 
 ## Dashboard
