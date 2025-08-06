@@ -16,9 +16,7 @@
 ## Tools Used
 
 - Microsoft Excel
-
 <br>
-
 
 ## Defining the Business Problem
 
@@ -54,22 +52,28 @@ No missing values were detected in the dataset. Excel's filter tool was used to 
 
 <br>
 
-### Calculated Field and Key Metric Calculation
-<br>
+### Calculated Field and Key Metric Calculation<br>
 
-**New Field:** **Average Working Years per Company**
+**New Field 1:** **Average Working Years per Company**
 
 This metric was calculated by dividing **Total Working Years** by **Number of Companies Worked**. However, some records showed a value of 0 for Number of Companies Worked. This likely means the employee has only ever worked at their current company, and the field reflects the number of previous companies. To avoid division by zero, we replaced the 0 with 1 in these specific cases, assuming their entire work experience is with this one company, so the metric becomes **Total Working Years ÷ 1**.
 
 **Basis**: This feature provides a more nuanced understanding of an employee's career stability, indicating their average tenure per employer.
   
   <br>
+
+**New Field 2:** **Age Group**
+
+The age data is binned into groups to be used as a filter.
+
+  <br>
   
 **Key Metric**: **Attrition Rate (%)**
   
 The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **Number of Yes responses / Total number of responses**.
-  
-The standard attrition rate formula is calculated by the number of employees who left divided by the average number of employees. However, for the IBM HR Analytics dataset, which is usually a static snapshot that includes employees who left during a specific period, the simplified formula is commonly used and generally acceptable. This is because the total dataset size serves as the baseline for measuring attrition.
+Two new columns were derived from the Attrition column to enable the calculation of the attrition rate in pivot tables. The columns' names are **IsYes** and **IsNo**, containing binary numbers 1 and 0. IsYes contains 1 for "Yes", and 0 for "No"; and vice versa for IsNo.<br>
+
+The standard attrition rate is calculated by dividing the number of employees who left by the average number of employees. But in the IBM HR Analytics dataset, a simplified formula is commonly used. This works because the total dataset is a static snapshot, including only a specific period that is not available in the dataset.
 
 **Basis**: This metric allows for a direct comparison of attrition likelihood across different employee segments.
 
@@ -89,7 +93,7 @@ This section is divided into three parts:
 
 <br>
 
-<img width="532" height="414" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
+<img width="400" height="300" alt="Employee Attrition Breakdown" src="https://github.com/user-attachments/assets/e44a8918-70ef-49ee-a3ff-c3b3859656bf" /> <br>
 
 With an attrition rate of **16%**, roughly one in six employees leave the organization. This underlines the importance of identifying and addressing the key factors driving attrition.<br>
 
@@ -145,7 +149,8 @@ The first few years are the most critical for improving employee retention. This
 **Overtime**: Employees who work overtime are much more likely to leave, with an attrition rate of **31%**. In contrast, those who don’t work overtime have a much lower attrition rate of **10%**. This means employees working overtime are over three times more likely to leave, suggesting that overtime could be a key factor contributing to employee turnover.
 
 <br>
-<img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /> <br>
+
+<img width="532" height="292" alt="Attrition vs Environment Satisfaction" src="https://github.com/user-attachments/assets/c44217df-b484-4144-96a5-efd0b0c7c9c1" /><br>
 
 
 **Satisfaction with the Work Environment**: A bad work environment makes people much more likely to leave. Employees who rate it as “Low” have a **25%** attrition rate. This drops to **15%** for moderate satisfaction and **13%** for very high satisfaction. While a great environment helps, avoiding a negative one is especially important for keeping employees.
@@ -179,7 +184,6 @@ The company’s overall employee turnover rate is 16%. After looking closely at 
 - **Make the job more enjoyable**: Spend time and money on ways to help employees enjoy their work and feel more connected to what they do. When people feel good about their jobs, they’re less likely to leave.
 
 - **Help people balance work and life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling stretched thin.
-
 <br>
 
 ## Dashboard
