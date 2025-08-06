@@ -198,10 +198,13 @@ The company has an overall attrition rate of 16%. The analysis reveals that attr
 
 ### Recommendations
 
-- **Focus on Early Retention**: Implement programs to support and engage new hires, as this is the highest-risk group for attrition.
-- **Address Overtime**: Review and adjust company policies on overtime to reduce burnout and its associated high turnover.
-- **Boost Satisfaction**: Invest in initiatives to improve job involvement and satisfaction, as these are strong deterrents to attrition.
-- **Promote Work-Life Balance**: Actively support a healthy work-life balance to reduce attrition among a highly vulnerable segment of employees.
+- **Pay Special Attention to New Employees**: Create programs that help new workers feel welcome, supported, and part of the team. People who are new to the company are the most likely to leave, so it’s important to make sure they have a positive beginning.
+
+- **Take a close look at Overtime**: Go over the rules and practices around working extra hours. Working too much can lead to stress and feeling worn out, which makes people more likely to quit. Making changes here can help people feel better and stay longer.
+
+- **Make the Job More Enjoyable**: Spend time and money on ways to help employees enjoy their work and feel more connected to what they do. When people feel good about their jobs, they’re less likely to leave.
+
+- **Help People Balance Work and Life**: Encourage a balance between work and personal life. When employees feel like they have time for themselves and their families, they’re more likely to stay. This is especially important for groups of employees who are already feeling stretched thin.
 
 <br>
 
