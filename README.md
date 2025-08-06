@@ -188,6 +188,7 @@ The company’s overall employee attrition rate is **16%**. After looking closel
 
 ## Dashboard
 
+(Dashboard Excel File)[]
 
 <img width="3854" height="1963" alt="HR Dashboard8" src="https://github.com/user-attachments/assets/f76f232f-7e41-4407-b40e-ca95b23f3458" />
 
