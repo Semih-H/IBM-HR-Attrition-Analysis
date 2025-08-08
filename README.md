@@ -108,10 +108,8 @@ The age data is binned into groups to be used as a filter.
   
 **Key Metric**: **Attrition Rate (%)**
   
-The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **Number of Yes responses / Total number of responses**.
-Two new columns were derived from the Attrition column to enable the calculation of the attrition rate in pivot tables. The columns' names are **IsYes** and **IsNo**, containing binary numbers 1 and 0. IsYes contains 1 for "Yes", and 0 for "No"; and vice versa for IsNo.<br>
-
-The standard attrition rate is calculated by dividing the number of employees who left by the average number of employees. But in the IBM HR Analytics dataset, a simplified formula is commonly used. This works because the total dataset is a static snapshot, including only a specific period that is not available in the dataset.
+The attrition rate was calculated as a summary statistic for each group (e.g., for each level of job satisfaction, each tenure bucket) using the formula: **(Number of Yes responses / Total number of responses)x100**.
+Two new columns were derived from the Attrition column to enable the calculation of the **attrition rate** in pivot tables. The columns' names are **IsYes** and **IsNo**, containing binary numbers 1 and 0. IsYes contains 1 for "Yes", and 0 for "No"; and vice versa for IsNo.<br>
 
 **Basis**: This metric allows for a direct comparison of attrition likelihood across different employee segments.
 
