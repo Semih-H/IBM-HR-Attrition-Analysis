@@ -142,7 +142,7 @@ With an attrition rate of **16%**, roughly one in six employees leave the organi
 <img width="532" height="308" alt="Employee Histogram" src="https://github.com/user-attachments/assets/ecfb78e3-2a3d-47d1-8d0c-27fc4ee2c8c3" /> <br>
 
 
-**Employee Tenure**: he distribution of **years at the company** is heavily skewed toward shorter tenures. Most employees don’t stay very long. Around **600** have worked at the company for **0–4 years**. That number drops to **400** for **4–8 years**, **200** for **8–12 years**, and fewer than **100** for each group after that, up to **36–40 years**. This shows that short stays are much more common than long ones.
+**Employee Tenure**: The distribution of **years at the company** is right-skewed . Most employees don’t stay very long. Around **600** have worked at the company for **0–4 years**. That number drops to **400** for **4–8 years**, **200** for **8–12 years**, and fewer than **100** for each group after that, up to **36–40 years**. This shows that short stays are much more common than long ones.
 
 
 <br>
@@ -152,7 +152,7 @@ With an attrition rate of **16%**, roughly one in six employees leave the organi
 
 <br>
 
-The first few years are the most critical for improving employee retention. This figure shows a steep decline in attrition as working years at the company increase. Attrition is **highest at** **30%** among the newest employees with **0–2 years** at the company. It drops to **14%** for those with **3–5 years** of service and continues to fall to just **6%** for employees with **18–20** years at the company. 
+**Years at The Company:** The first few years are the most critical for improving employee retention. This figure shows a steep decline in attrition as working years at the company increase. Attrition is **more than** **30%** among the newest employees with **0–2 years** at the company. It drops to **14%** for those with **3–5 years**, and continues to fall to just **6%** for employees with **18–20** years at the company. 
 
 **The box plot** supports the insights from the bar chart. The employees who have been with the company longer are more likely to stay. For those who left, the typical stay was only **3 years**. For those who stayed, it was **6 years**. This suggests that newer employees are at a higher risk of leaving.
 
